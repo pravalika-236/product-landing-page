@@ -1,2 +1,3 @@
-# product-landing-page
-A responsive page for sleek and modern product landing page for a shoe brand using html and css.
+Source code related to my [YouTube Channel](https://www.youtube.com/channel/UCTSDQ3BAZfrweD2nBMwJEpQ)
+
+After downloading the code, open the browser on the index.html file.
